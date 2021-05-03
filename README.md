@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
 
 <p align="center">
   <img src= "./public/tela_home.png" alt="Tela inicial do aplicativo!" width="90%" />
-  <img src= "./public/tela_podcast.png" alt="Tela de um PodCast específico" width="90%" />
+  <img src= "./public/tela-podcast.png" alt="Tela de um PodCast específico" width="90%" />
 </p>
 
 ## 🚀 Tecnologias
