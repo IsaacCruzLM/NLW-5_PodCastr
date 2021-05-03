@@ -10,9 +10,8 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
-  <img src= "./public/tela_home.png" alt="Tela inicial do aplicativo!" width="100%" />
-  <img src= "/public/tela_podcast.png" alt="Tela de um PodCast específico" width="100%" />
+  <img src= "./public/tela_home.png" alt="Tela inicial do aplicativo!" width="90%" />
+  <img src= "./public/tela_podcast.png" alt="Tela de um PodCast específico" width="90%" />
 </p>
 
 ## 🚀 Tecnologias
